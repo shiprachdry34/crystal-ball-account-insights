@@ -10,7 +10,7 @@ Given an account name or BP ID, this skill:
 2. Fetches the Total Account Opportunity (TAO) table — solution areas with priority, wallet size, gap, competitors, and sales plays
 3. On request, generates an AI sales pitch for a specific solution area (polls Crystal Ball until complete)
 4. Presents the pitch as a KPI card + full narrative card
-5. Automatically follows up with LeanIX customer stories (via ReferenceGPT) and competitive battlecards for key competitors (via CompeteOne)
+5. Automatically follows up with Customer references and competitive battlecards for key competitors (via CompeteOne)
 
 ## Example prompts
 
@@ -18,7 +18,6 @@ Given an account name or BP ID, this skill:
 - *"Show total account opportunity for account 161825"*
 - *"Generate a sales pitch for LeanIX at BMW"*
 - *"What are the high priority solution areas for Siemens?"*
-- *"Write a pitch for the HCM solution area for account 12345"*
 
 ## TAO columns returned
 
