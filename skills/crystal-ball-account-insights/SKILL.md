@@ -6,7 +6,7 @@ metadata:
   author: Shipra
   version: 1.7.0
   tags: crystal-ball tao sales account-insights opportunities sales-pitch
-  required-mcp-servers: "https://mxpresso.cfapps.eu10-004.hana.ondemand.com/mcp"
+  required-mcp-servers: "https://cmi-agent-test.cfapps.eu10-004.hana.ondemand.com/mcp https://mxpresso.cfapps.eu10-004.hana.ondemand.com/mcp"
 ---
 
 # Crystal Ball Account Insights — TAO Lookup & Sales Pitch
